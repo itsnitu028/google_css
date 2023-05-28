@@ -1,0 +1,203 @@
+.adjust
+{
+    padding-top: 10px;
+    
+}
+.nav{
+    font-size: small;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+a.nav-link{
+    color: black;
+}
+a.nav-link.hov:hover{
+    background-color: whitesmoke;
+    border-radius: 90%;
+}
+a.nav-link:hover {
+    text-decoration: underline;
+    color: black;
+}
+.center{
+    margin: auto;
+    text-align: center;
+}
+.space{
+    margin-bottom: 35px;
+}
+.input-field {
+    padding: 10px;
+    margin-left: 20px;
+    border: 1px solid grey;
+}
+.one{
+    border:1px solid grey;
+    height: 50px;
+    padding: 10px;
+    width: 10%;
+    border:1px solid grey;
+    border-right: hidden;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+}
+
+.two{
+    width:80%;
+    border: 1px solid grey;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 1px;
+    padding-bottom: 15px;
+
+}
+div form .two{
+    border: hidden;
+}
+.lol{
+
+    width:600px;
+    height: 50px;
+    border: hidden;
+    margin: auto;
+    display: flex;
+    gap:0px;
+    
+}
+.three{
+ border: 1px solid grey;
+ padding-top: 10px;
+ border-left: hidden;
+ border-right: hidden;
+}
+
+.four{
+    width:10%;
+    padding-top: 8px;
+    padding-left: 5px;
+    border: 1px solid grey;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+    border-left: hidden;
+   }
+ .as
+ {
+   
+    margin:auto;
+    width: 100%;
+    text-align: center;
+ }  
+ .myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+    display: inline-block;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
+
+.myButton1 {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+    display: inline-block;
+}
+.myButton1:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+.as1{
+    display:inline-flex;
+    margin-top:30px;
+    margin-right: 10px;
+}
+.as2{
+    display: inline-flex;
+    margin-top:30px;
+}
+.offered{
+    text-align: center;
+    width:50%;
+    margin:auto;
+    font-size: small;
+    margin-top:20px;
+}
+.offered a{
+    padding: 3px;
+}
+.secondlast{
+    margin-top:100px;
+    height:50px;
+    background-color: whitesmoke;
+    border-bottom: 1px solid gray;;
+}
+.secondlast p{
+    padding: 12px;
+    color: gray;
+    margin-left: 20px;
+    
+}
+.design {
+    display: inline-block;
+    width:90px;
+   font-size: medium;
+   color: #666666;
+  }
+  .design1{
+  
+    display: inline-block;
+    visibility: hidden;
+    color: #666666;
+
+  }
+  .design2{
+    display: inline-block;
+    width:150px;
+   font-size:medium;
+   color: #666666;
+  }
+.container{
+    height:50px;
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+.lft{
+    margin-left: 130px;;
+}
